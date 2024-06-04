@@ -39,7 +39,7 @@ public class Poc2 {
 			}
 		}
 		System.out.println(result);
-		scn.close();
+		
 		}
 	}
 
